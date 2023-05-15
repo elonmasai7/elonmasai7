@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @elonmasai7
-- 👀 I’m interested in coding,Gaming,Hacking..
-- 🌱 I’m currently learning Software engineering...
+- 👋 Hi, I’m Elon kipng'etich
+- 👀 I’m interested in          coding,Gaming,Hacking..
+- 🌱 I’m Fullstack developer ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my phone number is +254741126228
 Email: elonmasai7@gmail.com
