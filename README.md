@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Elon kipng'etich
-- 👀 I’m interested in          coding,Gaming,Hacking..
-- 🌱 I’m Fullstack developer ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...my phone number is +254741126228
-Email: elonmasai7@gmail.com
+  Hi 👋 My name is Elon kipng'etich masai
+Senior Software Engineer-Android
 
-<!---
-elonmasai7/elonmasai7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im an Experienced full-stack developer with over one year of enterprise experience in Software and Mobile development in Fintech,Banks, University and telecom companies. Knowledge of UI and animation frameworks, MVP application design and complex system designs and have deep technical knowledge of mobile application development.Collaborate with designers to create innovative user experiences. Develop prototypes quickly to validate interactions and prove product designs.
+
+    🌍  I'm based in Nairobi, Kenya
+    ✉️  You can contact me at elonmasai7@gmail.com
+    🧠  I'm learning New Concepts in Kotlin
+    🤝  I'm open to collaborating on In kotlin,Java, Android ,Ios
