@@ -18,11 +18,24 @@
 ### I'm 19 Years old Hacker | Programmer | Editor | Devloper from Kenya.
 
 <br/>
+“Human Stupidity, that's why Hackers always win.” 
+<br>
+“The quieter you become, the more you are able to hear…” <br>
+“You're allowed to want different things in bed than you do in your normal everyday life.” <br>
+“Never underestimate the determination of a kid who is time-rich and cash-poor.”
+<br/>
 
 I am owner of Macgraffix
 <br/>
  <img src="https://github-readme-stats.vercel.app/api?username=elonmasai7&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
 </a>
+<a href="https://github.com/elonmasai7">
+</a>
+<br />
+
+*************
+
+<br />
 
 
 ### Languages and Tools...
