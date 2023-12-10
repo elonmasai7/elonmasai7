@@ -3,7 +3,7 @@
 junior Software Engineer-Android
 --------------------------------
 
-Im an Experienced Fullstack Developer with over Seven years of enterprise experience in Software and Mobile development in Fintech,Banks, University and telecom companies. Knowledge of UI and animation frameworks, MVP application design and complex system designs and have deep technical knowledge of mobile application development.Collaborate with designers to create innovative user experiences. Develop prototypes quickly to validate interactions and prove product designs.
+Im an Experienced Fullstack Developer with a year of enterprise experience in Software and Mobile development in Fintech,Banks, University and telecom companies. Knowledge of UI and animation frameworks, MVP application design and complex system designs and have deep technical knowledge of mobile application development.Collaborate with designers to create innovative user experiences. Develop prototypes quickly to validate interactions and prove product designs.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
 <a href="https://twitter.com/elonmasai7">
