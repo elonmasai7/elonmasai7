@@ -1,6 +1,6 @@
  <h2>Hi, I'm Elon kipng'etich masai! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
  
-junior Software Engineer-Android
+Software Engineer-Android
 --------------------------------
 
 Im an Experienced Fullstack Developer with a year of enterprise experience in Software and Mobile development in Fintech,Banks, University and telecom companies. Knowledge of UI and animation frameworks, MVP application design and complex system designs and have deep technical knowledge of mobile application development.Collaborate with designers to create innovative user experiences. Develop prototypes quickly to validate interactions and prove product designs.
