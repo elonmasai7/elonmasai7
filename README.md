@@ -30,7 +30,8 @@ Im an Experienced Fullstack Developer with a year of enterprise experience in So
 “Never underestimate the determination of a kid who is time-rich and cash-poor.”
 <br/>
 
-I am owner of Macgraffix
+  In my spare time I love hacking into my own devices.
+  When I am away from a computer, I like brainstorming on what to build next.
 <br/>
  <img src="https://github-readme-stats.vercel.app/api?username=elonmasai7&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
 </a>
