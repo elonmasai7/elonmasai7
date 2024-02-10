@@ -82,7 +82,6 @@ Don't forget to leave a Star
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MrHarshArora" alt="visitor badge"/>
 </p>
-## Support 
-feell free to help 
-<a href="https://www.paypal.com/donate/?hosted_button_id=XB6GDGMNHWJ8C"
-
+#### Support 
+feell free to help
+https://www.paypal.com/donate/?hosted_button_id=XB6GDGMNHWJ8C
