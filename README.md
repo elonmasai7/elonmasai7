@@ -1,4 +1,5 @@
- <h2>Hi, I'm Elon kipng'etich masai! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+ <h2>Hi,![WELCOME !!!](https://media.giphy.com/media/3oxHQHNUMTYmCgwoog/giphy.gif)
+  I'm Elon kipng'etich masai! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
  
 Software Engineer-Android
 --------------------------------
