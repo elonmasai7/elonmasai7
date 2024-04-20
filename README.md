@@ -85,3 +85,5 @@ Don't forget to leave a Star
 Support 
 feell free to help
 https://www.paypal.com/donate/?hosted_button_id=XB6GDGMNHWJ8C
+
+<a href="https://app.daily.dev/elonmasai7"><img src="https://api.daily.dev/devcards/v2/bZ2u8BulxPda9wVfSwSso.png?r=a3j&type=wide" width="652" alt="Elon masai's Dev Card"/></a>
