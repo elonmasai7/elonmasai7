@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=300&color=626cd2&size=30&center=true&vCenter=true&width=800&height=100&lines=Software+Developer;Web+Developer;Graphic+Designer;Embracing+challenges+and+mastering+skills;Always+learning+new+things"></a>
 </p>
---------------------------------
+
 
 Im an Experienced Fullstack Developer with a year of enterprise experience in Software and Mobile development in Fintech,Banks, University and telecom companies. Knowledge of UI and animation frameworks, MVP application design and complex system designs and have deep technical knowledge of mobile application development.Collaborate with designers to create innovative user experiences. Develop prototypes quickly to validate interactions and prove product designs.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
