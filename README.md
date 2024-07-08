@@ -85,6 +85,7 @@ Im an Experienced Fullstack Developer with a year of enterprise experience in So
 
 #### Thank You and Check out my work-🙏🏼
 Don't forget to leave a Star
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S2109HDL)
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MrHarshArora" alt="visitor badge"/>
 </p>
