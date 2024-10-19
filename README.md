@@ -83,6 +83,9 @@ Im an Experienced Fullstack Developer with a year of enterprise experience in So
 
 ***********************************
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Elonmasai.png" alt="Your Image Badge" />
+
+
 #### Thank You and Check out my work-🙏🏼
 Don't forget to leave a Star
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S2109HDL)
