@@ -26,7 +26,7 @@ Im an Experienced Fullstack Developer with a year of enterprise experience in So
 
 
 ### Hi 🙋‍♂️,
-### I'm 20 Years old Hacker | Programmer | Editor | Developer from Kenya.
+### I'm Hacker | Programmer | Editor | Developer from Kenya.
 
 <br/>
 “Human Stupidity, that's why Hackers always win.” 
